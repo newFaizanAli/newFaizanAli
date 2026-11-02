@@ -3,7 +3,10 @@
 <a href="https://app.daily.dev/faize"><img src="https://api.daily.dev/devcards/v2/rOXhnpZyfFgMXsr6QA1vm.png?type=wide&r=je5" width="652" alt="Faizan Ali's Dev Card"/></a>
 ### 🎓 Certification
 <p align="left">
-<a href="https://www.credly.com/badges/f24526d7-0d5f-4227-bf9e-450db7ee4350/public_url">
+<a href="https://www.credly.com/badges/4b315ba7-55a5-465a-ade1-e1c1c472b3d6/public_url">
+  <img src="./ccna-introduction-to-networks.png" width="150" alt="Credly Certification Badge" />
+</a>
+  <a href="https://www.credly.com/badges/f24526d7-0d5f-4227-bf9e-450db7ee4350/public_url">
   <img src="./ccna-enterprise-networking.png" width="150" alt="Credly Certification Badge" />
 </a>
 </p>
